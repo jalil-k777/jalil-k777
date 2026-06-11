@@ -52,7 +52,7 @@ ModelSim · GHDL · Git · Python · MATLAB . Quartus . Proteus
 
 ## Currently
 
-- Master's in Computer Engineering @ IGEE (2025–2027)
+- Master's in Computer Engineering @ INELEC
 - Building: RISC-V pipelined core
 - Reading: Computer Architecture — Hennessy & Patterson
 - Open to: Research internships · Graduate engineering roles · 
