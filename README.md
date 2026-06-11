@@ -5,6 +5,7 @@
 > Building hardware that processes the physical world.
 > from signal acquisition to intelligent inference.
 
+---
 
 ## About
 
@@ -17,7 +18,7 @@ acceleration for signal processing and AI inference.
 Currently working on: FPGA neural network 
 accelerators and FPGA based brain-computer interface.
 
-
+---
 
 ## Technical Stack
 
