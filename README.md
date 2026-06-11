@@ -2,7 +2,7 @@
 
 ### FPGA & Embedded Systems Engineer
 
-> Building hardware that processes the physical world.
+> Building hardware that processes the physical world, 
 > from signal acquisition to intelligent inference.
 
 ---
